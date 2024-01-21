@@ -1,0 +1,9 @@
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroClientes\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroClientes\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\alex\Documents\Visual Studio 2015\Projects\DDD\CadastroClientes\CadastroCliente\obj\Debug\CadastroCliente.pdb
